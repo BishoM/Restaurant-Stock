@@ -1,0 +1,67 @@
+#bd{
+   background-image: url(kitch.jpg);
+    background-size: cover;
+}
+#formall{
+    background-color: darkslategray;
+    width: 500px;
+    height: 300px;
+    padding: 30px 11px 10px 20px;
+    color: wheat;
+    border-radius: 15px;
+}
+
+#he{
+    background-color: gray;
+    font-family: 'Manjari', sans-serif;
+    border-radius: 10px;
+    width: 600px;
+    height: 40px;
+}
+header{
+    background-color: darkslategray;
+    color: wheat;
+    padding: 8px 0px 6px 40px;
+    height: 60px;
+}
+header h1{
+    display: inline;
+    font-family: fantasy;
+    font-size: 32px;
+    float: left;
+/*
+    margin-top: 0px;
+    margin-right: 0px;
+*/
+}
+
+nav ul{
+    display: inline;
+    padding: 0px;
+    float: left;
+}
+nav ul li{
+    display: inline-block;
+    list-style-type: none;
+    color: white;
+    float: left;
+    margin: 10px;
+    font-style: bold;
+}
+nav ul li a{
+    color: wheat;
+    text-decoration: none;
+}
+
+#nav{
+    font-family: sans-serif;
+}
+.homered{
+    background-color: crimson;
+    padding: 20px 10px 22px 10px;
+}
+.homeblack:hover{
+    background-color: skyblue;
+    padding: 20px 10px 22px 10px;
+}
+
